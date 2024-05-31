@@ -1,6 +1,5 @@
 <?php
 
-
 class ContactManager{  
 
 private $db;
